@@ -1,0 +1,1 @@
+(()=>{'use strict';const banner=document.querySelector('.fixed.inset-x-0.top-0 p');if(banner)banner.textContent='🎄 CONDICIÓN ESPECIAL DE NAVIDAD';document.querySelectorAll('.offer-activity-preview,.mx-preview-badge').forEach(e=>e.remove());})();
