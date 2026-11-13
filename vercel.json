@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/api/market",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "private, no-store"
+        }
+      ]
+    }
+  ]
+}
